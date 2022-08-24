@@ -9,7 +9,7 @@ address:
   city: Atlanta
   country: United States
 
-summary: This is a summary of the "Centralized or Decentralized? The Contact Tracing Dilemma" research paper having the following abstract - "The COVID-19 pandemic created a noticeable challenge to the cryptographic community with the development of contact tracing applications. The media reported a dispute between designers proposing a centralized or a decentralized solution (namely, the PEPP-PT and the DP3T projects). Perhaps, the time constraints to develop and deploy efficient solutions led to non-optimal (in terms of privacy) solutions. Moreover, arguments have been severely biased and the scientific debate did not really happen until recently. In this paper, we show the vulnerabilities and the advantages of both solutions systematically. We believe that none offers any sufficient level of privacy protection and the decision to use one or another is as hard as using automated contact tracing at the first place. A third way could be explored. We list here a few possible directions.
+summary: This is a summary of the "Centralized or Decentralized? The Contact Tracing Dilemma" research paper having the following abstract - "The COVID-19 pandemic created a noticeable challenge to the cryptographic community with the development of contact tracing applications. The media reported a dispute between designers proposing a centralized or a decentralized solution (namely, the PEPP-PT and the DP3T projects). Perhaps, the time constraints to develop and deploy efficient solutions led to non-optimal (in terms of privacy) solutions. Moreover, arguments have been severely biased and the scientific debate did not really happen until recently. In this paper, we show the vulnerabilities and the advantages of both solutions systematically. We believe that none offers any sufficient level of privacy protection and the decision to use one or another is as hard as using automated contact tracing at the first place. A third way could be explored. We list here a few possible directions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,14 +54,12 @@ projects: []
 math: true
 ---
 
-This is a summary of the "Centralized or Decentralized? The Contact Tracing Dilemma" research paper having the following abstract - "The COVID-19 pandemic created a noticeable challenge to the cryptographic community
-with the development of contact tracing applications. The media reported a dispute between designers
-proposing a centralized or a decentralized solution (namely, the PEPP-PT and the DP3T projects).
+This is a summary of the ["Centralized or Decentralized? The Contact Tracing Dilemma"](https://eprint.iacr.org/2020/531.pdf) research paper having the following abstract - "The COVID-19 pandemic created a noticeable challenge to the cryptographic community with the development of contact tracing applications. The media reported a dispute between designers proposing a centralized or a decentralized solution (namely, the PEPP-PT and the DP3T projects).
 Perhaps, the time constraints to develop and deploy efficient solutions led to non-optimal (in terms
 of privacy) solutions. Moreover, arguments have been severely biased and the scientific debate did
 not really happen until recently. In this paper, we show the vulnerabilities and the advantages of
 both solutions systematically. We believe that none offers any sufficient level of privacy protection
 and the decision to use one or another is as hard as using automated contact tracing at the first
-place. A third way could be explored. We list here a few possible directions.
+place. A third way could be explored. We list here a few possible directions."
 
 Get a copy of the talk slides [here](https://github.com/chaitanyarahalkar/temporary-uploads/raw/master/CS-8803-SCP.pdf)
