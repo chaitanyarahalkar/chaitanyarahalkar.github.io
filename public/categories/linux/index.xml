@@ -5,7 +5,7 @@
     <link>https://rahalkar.dev/categories/linux/</link>
       <atom:link href="https://rahalkar.dev/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <description>Linux</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Mon, 16 Sep 2019 04:15:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Mon, 16 Sep 2019 04:15:02 +0000</lastBuildDate>
     <image>
       <url>https://rahalkar.dev/img/icon-192.png</url>
       <title>Linux</title>
@@ -84,7 +84,7 @@ Thread 2
 
 &lt;p&gt;Thus the second thread has successfully managed to get in between the two non atomic operations. Thus before writing to the physical address, the mmap is discarded. Now since it does not have any address to write to, it writes to the original read-only file. Thus, the kernel is tricked into thinking that the write was to the original read-only file. This is a race condition exhibited due to write attempts at a location that never exists. And this is how the actual exploit works.&lt;/p&gt;
 
-&lt;p&gt;The following diagram taken from &lt;a href=&#34;https://www.cs.toronto.edu/~arnold/427/18s/427_18S/indepth/dirty-cow/demo.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; gives an apt visual representation of the exploit. &lt;img src=&#34;https://chaitanyarahalkar.000webhostapp.com/wp-content/uploads/2019/06/dirtycow.png&#34; alt=&#34;dirtycow&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The following diagram taken from &lt;a href=&#34;https://www.cs.toronto.edu/~arnold/427/18s/427_18S/indepth/dirty-cow/demo.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; gives an apt visual representation of the exploit. &lt;img src=&#34;006.png&#34; alt=&#34;dirtycow&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;how-does-dirty-cow-gets-root-privileges&#34;&gt;How does Dirty COW gets root privileges?&lt;/h4&gt;
 

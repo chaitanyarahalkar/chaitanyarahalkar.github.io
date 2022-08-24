@@ -18,13 +18,13 @@ organizations:
   url: "https://gatech.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a technology and Linux enthusiast.
+bio: Masters in Cybersecurity student at Georgia Tech.
 
 interests:
-- Deep Learning
+- Application Security
+- Reverse Engineering
 - System Programming & Operating Systems
-- Information Assurance
-
+- Penetration Testing
 
 education:
   courses:

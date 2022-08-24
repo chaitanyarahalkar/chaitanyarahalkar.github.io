@@ -5,12 +5,22 @@
     <link>https://rahalkar.dev/</link>
       <atom:link href="https://rahalkar.dev/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaitanya Rahalkar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sun, 25 Apr 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Fri, 29 Oct 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahalkar.dev/img/icon-192.png</url>
       <title>Chaitanya Rahalkar</title>
       <link>https://rahalkar.dev/</link>
     </image>
+    
+    <item>
+      <title>The Million Dollar Dissident</title>
+      <link>https://rahalkar.dev/talk/million-dollar-dissident/</link>
+      <pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://rahalkar.dev/talk/million-dollar-dissident/</guid>
+      <description>&lt;p&gt;A talk about the Zero-Day exploit used by the NSO group on Ahmed Mansoor, its backstory, exploit and network
+infrastructure.  Get a copy of the slides &lt;a href=&#34;https://git.io/ems8803&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Summarizing and Analyzing the Privacy-Preserving Techniques in Bitcoin and other Cryptocurrencies</title>
@@ -195,7 +205,7 @@ Thread 2
 
 &lt;p&gt;Thus the second thread has successfully managed to get in between the two non atomic operations. Thus before writing to the physical address, the mmap is discarded. Now since it does not have any address to write to, it writes to the original read-only file. Thus, the kernel is tricked into thinking that the write was to the original read-only file. This is a race condition exhibited due to write attempts at a location that never exists. And this is how the actual exploit works.&lt;/p&gt;
 
-&lt;p&gt;The following diagram taken from &lt;a href=&#34;https://www.cs.toronto.edu/~arnold/427/18s/427_18S/indepth/dirty-cow/demo.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; gives an apt visual representation of the exploit. &lt;img src=&#34;https://chaitanyarahalkar.000webhostapp.com/wp-content/uploads/2019/06/dirtycow.png&#34; alt=&#34;dirtycow&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The following diagram taken from &lt;a href=&#34;https://www.cs.toronto.edu/~arnold/427/18s/427_18S/indepth/dirty-cow/demo.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; gives an apt visual representation of the exploit. &lt;img src=&#34;006.png&#34; alt=&#34;dirtycow&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;how-does-dirty-cow-gets-root-privileges&#34;&gt;How does Dirty COW gets root privileges?&lt;/h4&gt;
 

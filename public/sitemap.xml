@@ -3,14 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rahalkar.dev/authors/anushka-virgaonkar/</loc>
-    <lastmod>2021-04-25T11:00:00+00:00</lastmod>
+    <loc>https://rahalkar.dev/authors/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rahalkar.dev/authors/</loc>
+    <loc>https://rahalkar.dev/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/authors/chaitanya-rahalkar/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/hacking/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/authors/nathan-lee-jaco/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/talk/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/security/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/talk/million-dollar-dissident/</loc>
+    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/authors/anushka-virgaonkar/</loc>
     <lastmod>2021-04-25T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,20 +80,6 @@
   </url>
   
   <url>
-    <loc>https://rahalkar.dev/</loc>
-    <lastmod>2021-04-25T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/authors/chaitanya-rahalkar/</loc>
-    <lastmod>2021-04-25T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://rahalkar.dev/tags/privacy/</loc>
     <lastmod>2021-04-25T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -45,21 +87,7 @@
   </url>
   
   <url>
-    <loc>https://rahalkar.dev/talk/</loc>
-    <lastmod>2021-04-25T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://rahalkar.dev/talk/privacy-blockchain/</loc>
-    <lastmod>2021-04-25T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/tags/</loc>
     <lastmod>2021-04-25T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -200,13 +228,6 @@
   
   <url>
     <loc>https://rahalkar.dev/tags/research/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/tags/security/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

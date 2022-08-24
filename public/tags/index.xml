@@ -5,12 +5,28 @@
     <link>https://rahalkar.dev/tags/</link>
       <atom:link href="https://rahalkar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sun, 25 Apr 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Fri, 29 Oct 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahalkar.dev/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://rahalkar.dev/tags/</link>
     </image>
+    
+    <item>
+      <title>hacking</title>
+      <link>https://rahalkar.dev/tags/hacking/</link>
+      <pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://rahalkar.dev/tags/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://rahalkar.dev/tags/security/</link>
+      <pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://rahalkar.dev/tags/security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blockchain</title>
@@ -97,14 +113,6 @@
       <link>https://rahalkar.dev/tags/research/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://rahalkar.dev/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>https://rahalkar.dev/tags/security/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/tags/security/</guid>
       <description></description>
     </item>
     

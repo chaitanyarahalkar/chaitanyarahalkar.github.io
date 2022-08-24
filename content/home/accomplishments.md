@@ -19,45 +19,58 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Illinois at Urbana Champaign"
-  organization_url = "https://illinois.edu"
-  title = "Object-Oriented Data Structures in C++ by University of Illinois at Urbana-Champaign"
-  url = "https://illinois.edu"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XXHQRQBCR2NJ"
+  organization = "Cyber Cell VIIT"
+  title = "Winner, Vishwa CTF (Capture The Flag)"
+  url = "https://www.vishwactf.com/"
   date_start = "2019-05-01"
   date_end = ""
   description = ""
 
-
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning Specialisation"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/DNPTQ7FT35CP"
-  date_start = "2018-07-01"
+  organization = "ACM India"
+  title = "Finalist, ACM (Association for Computing Machinery) Pune Chapter Hackathon"
+  url = "https://india.acm.org/"
+  date_start = "2019-11-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "Pune University"
-  organization_url = "https://unipune.ac.in"
-  title = "Certification Course in German"
-  url = ""
-  certificate_url = ""
+  organization = "ACM India"
+  title = "Winner, ACM (Association for Computing Machinery) Pune Chapter Hackathon"
+  url = "https://india.acm.org/"
+  date_start = "2018-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Cyber Cell VIIT"
+  title = "Runner Up, Vishwa CTF (Capture The Flag)"
+  url = "https://www.vishwactf.com/"
   date_start = "2018-05-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
-  organization = "NPTEL"
-  organization_url = "https://nptel.ac.in"
-  title = "Cryptography and Network Security"
-  url = "http://nptel.ac.in/noc"
-  certificate_url = ""
-  date_start = "2018-05-01"
+  organization = "MIT Tesla, MITCOE, Pune"
+  title = "Winner, MIT Tesla’s Googler (Tech Quizzing Event)"
+  url = "https://mitpune.ac.in/"
+  date_start = "2017-03-21"
   date_end = ""
   description = ""
-  
 
+[[item]]
+  organization = "MindSpark, College of Engineering, Pune"
+  title = "Finalist, MindSpark’s Googler (Tech Quizzing Event)"
+  url = "https://www.mindspark.org/"
+  date_start = "2017-01-21"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IEEE Student Group, Pune Institute of Computer Technology"
+  title = "Finalist, National Coding Competition"
+  url = "https://pictieee.in/"
+  date_start = "2017-09-15"
+  date_end = ""
+  description = ""
 +++
