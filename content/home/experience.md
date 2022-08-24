@@ -18,60 +18,57 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Teachning Assistant"
-  company = "Georgia Institute of Technology"
-  company_url = "https://gatech.edu"
-  location = "Pune, India"
-  date_start = "2021-08-15"
-  date_end = "2022-08-14"
+  title = "Security Engineering Intern"
+  company = "Meta (formerly Facebook)"
+  company_url = "https://meta.com"
+  location = "Seattle, WA"
+  date_start = "2022-05-23"
+  date_end = "2022-08-12"
   description = """
-   - Grading projects and reports
-   - Setting and evaluating exams
-   - Assisting and advising students on relevant topics & research"""
+  - Designed and developed coverage-guided fuzzing harnesses with LLVM Libfuzzer that run on Meta's Continuous Fuzzing platform - Lionhead.
+  - Found 10+ security bugs in Meta's production code and tooling systems through fuzzing and code reviews / auditing.
+  - Audited and statically analyzed code in the WhatsApp Payment Engine system for security and privacy issues. Found 5+ CVE-worthy security bugs.
+  - Worked on developing an automated fuzzing harness generation system to get coverage guided fuzzing for 100,000+ API endpoints.
+  - Designed a fuzzing metrics system and visualization dashboard for coverage and fuzzing performance insights."""
 
 [[experience]]
   title = "Security Engineer"
-  company = "BosLeo Technologies"
+  company = "BosLeo LLC"
   company_url = "https://bosleo.com"
   location = "Pune, India"
-  date_start = "2019-07-07"
-  date_end = "2021-01-01"
+  date_start = "2020-07-07"
+  date_end = "2021-07-01"
   description = """
-   -  Developed a Software-Defined Perimeter prototype backed by a Zero Trust Network architecture. 
-   - Developed Anti-Virus, Anti-Phishing, Software Isolation, Application Firewall etc. modules as a part of the company’s Endpoint Security solution.
-   - Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system.
-   - Worked on the design and development of a digital inventory management system (DISM) that keeps track of software versions and corporate hardware devices."""
+  - Worked on the development of Anti-Virus, Anti-Phishing, Software Sandboxing, Application Firewall etc. components as a part of the company's Endpoint Protection Platform (EPP).
+  - Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system. Simulated, detected and analyzed 100+ network intrusion attacks with the NIDS.
+  - Developed a Software-Defined Perimeter prototype based on the Zero Trust Network architecture."""
 
 
 [[experience]]
-  title = "Project Intern"
-  company = "Persistent Systems"
-  company_url = "https://www.persistent.com"
+  title = "Software Engineering Intern"
+  company = "Rhythmflows Solutions"
+  company_url = "https://rhythmflows.com"
   location = "Pune, India"
-  date_start = "2019-06-06"
+  date_start = "2020-01-01"
   date_end = "2020-06-06"
   description = """
-  -  Worked on End-to-End Lung Cancer Screening with Chest Computed Tomography Scans using Convolutional Neural Networks.
-  - Worked on creating a unified interface for radiologists & researchers to analyze CT scans.
-  - Supplemented the unified application using XAI (Explainable AI) to simplify the analysis of the scans.
-  """
+  - Worked on scalable architectural design and development of a video on-demand solution streaming and web API, used by more than 500,000 users.
+  - Audited the backend \& the Cordova codebase (iOS + Android native app development framework) for security issues and vulnerabilities. Found 20+ CVE-worthy security and privacy issues."""
   
 [[experience]]
-  title = "Project Intern"
+  title = "Security Engineering Intern"
   company = "Quick Heal Technologies"
   company_url = "https://quickheal.com"
   location = "Pune, India"
   date_start = "2019-06-29"
   date_end = "2019-11-11"
   description = """
-  - Developed a secure central authentication service (CAS).
-  - Designed SDKs for Python and Golang to integrate the CAS with web applications.
-  - Developed the PoC using open-source programs and frameworks - Django, OSQuery, MongoDB, and Redis (Caching System) and PyInstaller (Code packaging)
-  """
+  - Developed a secure central authentication service (CAS) to support single sign on (SSO) for the company's internal applications with added support for LDAP / Active Directory integration.
+  - Designed client integration libraries for Python and Golang-based web application frameworks to support and integrate 100+ internal applications."""
 
 
 [[experience]]
-  title = "Research Intern"
+  title = "Research Assistant"
   company = "Pune Institute of Computer Technology"
   company_url = "https://pict.edu"
   location = "Pune, India"
@@ -86,22 +83,14 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Software Engineering Intern"
-  company = "Rhythmflows Solutions"
-  company_url = "https://rhythmflows.com"
+  title = "Research Intern"
+  company = ""
+  company_url = "https://cprpune.org/"
   location = "Pune, India"
-  date_start = "2019-01-20"
-  date_end = "2019-07-20"
+  date_start = "2020-01-20"
+  date_end = "2020-04-20"
   description = """
-  1. Bank Reconciliation Solution
-      1. Developed a backend system using Django framework for the administration panel
-      2. Worked on developing a software that reconciles transaction records of the bank and transaction history of its customers.
-      3. Used data analytics to provide a statistical overview of the reconciled records.
-      4. Audited the codebase for security vulnerabilities.
-  2. OTT (over-the-top) Video Streaming Solution
-      1. Worked on a scalable architectural design of a video on-demand solution used by more than 500,000 users.
-      2. Audited the backend Cordova (iOS + Android native app development framework) for security issues and vulnerabilities.
-  """
+  Worked with the Pune Police Department to design and develop a PoC (proof-of-concept) for an automated WiFi Security Analyzer for ethical war drives conducted by the police department."""
 
 
 +++
