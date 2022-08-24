@@ -84,7 +84,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = ""
+  company = "Center for Police Research (Government of Maharashtra)"
   company_url = "https://cprpune.org/"
   location = "Pune, India"
   date_start = "2020-01-20"
