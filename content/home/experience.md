@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_end = "2020-06-06"
   description = """
   - Worked on scalable architectural design and development of a video on-demand solution streaming and web API, used by more than 500,000 users.
-  - Audited the backend \& the Cordova codebase (iOS + Android native app development framework) for security issues and vulnerabilities. Found 20+ CVE-worthy security and privacy issues."""
+  - Audited the backend & the Cordova codebase (iOS + Android native app development framework) for security issues and vulnerabilities. Found 20+ CVE-worthy security and privacy issues."""
   
 [[experience]]
   title = "Security Engineering Intern"
