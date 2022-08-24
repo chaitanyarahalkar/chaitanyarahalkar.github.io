@@ -32,7 +32,7 @@ education:
     institution: Georgia Institute of Technology
     year: 2022 (Expected)
   - course: Bachelor of Engineering - Computer Engineering
-    institution: Pune University
+    institution: Savitribai Phule Pune University
     year: 2020
   - course: Higher Secondary School
     institution: M.E.S Abasaheb Garware College
