@@ -5,12 +5,20 @@
     <link>https://rahalkar.dev/authors/admin/</link>
       <atom:link href="https://rahalkar.dev/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaitanya Rahalkar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahalkar.dev/img/icon-192.png</url>
       <title>Chaitanya Rahalkar</title>
       <link>https://rahalkar.dev/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Summarizing and Analyzing the Privacy-Preserving Techniques in Bitcoin and other Cryptocurrencies</title>
+      <link>https://rahalkar.dev/publication/sum-crypt/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahalkar.dev/publication/sum-crypt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>End-to-End Lung Cancer Diagnosis on Computed Tomography Scans using 3D CNN and Explainable AI</title>

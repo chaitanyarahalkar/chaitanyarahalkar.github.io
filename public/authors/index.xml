@@ -5,7 +5,7 @@
     <link>https://rahalkar.dev/authors/</link>
       <atom:link href="https://rahalkar.dev/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Fri, 29 Oct 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Sun, 27 Mar 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahalkar.dev/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Chaitanya Rahalkar</title>
       <link>https://rahalkar.dev/authors/chaitanya-rahalkar/</link>
-      <pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Mar 2022 11:00:00 +0000</pubDate>
       <guid>https://rahalkar.dev/authors/chaitanya-rahalkar/</guid>
       <description></description>
     </item>
@@ -29,20 +29,20 @@
     </item>
     
     <item>
-      <title>Anushka Virgaonkar</title>
-      <link>https://rahalkar.dev/authors/anushka-virgaonkar/</link>
-      <pubDate>Sun, 25 Apr 2021 11:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/authors/anushka-virgaonkar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://rahalkar.dev/authors/admin/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://rahalkar.dev/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Cybersecurity Engineer in the making and a Tech enthusiast at heart. I love exploring and talking about Computer internals. My passion lies in building things with my power of programming. Check out my noteworthy projects and Open Source contributions on &lt;a href=&#34;https://github.com/chaitanyarahalkar&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anushka Virgaonkar</title>
+      <link>https://rahalkar.dev/authors/anushka-virgaonkar/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahalkar.dev/authors/anushka-virgaonkar/</guid>
+      <description></description>
     </item>
     
     <item>

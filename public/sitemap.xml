@@ -4,21 +4,56 @@
   
   <url>
     <loc>https://rahalkar.dev/authors/</loc>
-    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/talk/centralized-vs-decentralized/</loc>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rahalkar.dev/</loc>
-    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rahalkar.dev/authors/chaitanya-rahalkar/</loc>
-    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/contact-tracing/</loc>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/cryptography/</loc>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/talk/</loc>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/</loc>
+    <lastmod>2022-03-27T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,21 +73,7 @@
   </url>
   
   <url>
-    <loc>https://rahalkar.dev/talk/</loc>
-    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://rahalkar.dev/tags/security/</loc>
-    <lastmod>2021-10-29T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/tags/</loc>
     <lastmod>2021-10-29T11:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,8 +87,64 @@
   </url>
   
   <url>
+    <loc>https://rahalkar.dev/authors/admin/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/publication_types/2/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://rahalkar.dev/authors/anushka-virgaonkar/</loc>
-    <lastmod>2021-04-25T11:00:00+00:00</lastmod>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/arxiv/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/cryptocurrencies/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/publication_types/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/publication/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/tags/research/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahalkar.dev/publication/sum-crypt/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -115,20 +192,6 @@
   </url>
   
   <url>
-    <loc>https://rahalkar.dev/authors/admin/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/publication_types/2/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://rahalkar.dev/tags/deep-learning/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -158,20 +221,6 @@
   
   <url>
     <loc>https://rahalkar.dev/tags/health-care/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/publication_types/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/publication/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -221,13 +270,6 @@
   
   <url>
     <loc>https://rahalkar.dev/authors/rajvardhan-oak/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/tags/research/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -375,13 +417,6 @@
   
   <url>
     <loc>https://rahalkar.dev/publication/pwm-ijca/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rahalkar.dev/tags/cryptography/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
